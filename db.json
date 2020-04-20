@@ -1,13 +1,16 @@
 {
 "persona":[
 {
-"nombre": "jose",
-"apellido" : "hector",
-"edad":34
+"nombre":"jose",
+"apellido":"hector",
+"edad":34,
+"ciudad":"barranquilla"
 },
 {
-"nombre": "hectorr",
-"apellido" : "juan",
-"edad":36
+"nombre":"hectorr",
+"apellido":"juan",
+"edad":36,
+"ciudad":"barranquilla"
 }
 ]
+}
