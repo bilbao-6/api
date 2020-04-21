@@ -4,35 +4,35 @@
 "nombre":"Hector",
 "apellido":"Bilbao",
 "edad":18,
-"Tipo de sangre":"A+",
+"Sexo":"Masculino",
 "ciudad":"Barranquilla"
 },
 {
 "nombre":"Sharool",
 "apellido":"Hernandez",
 "edad":20,
-"Tipo de sangre":"o+",
+"Sexo":"Femenino",
 "ciudad":"Valledupar"
 },
 {
 "nombre":"Maria",
 "apellido":"Perez",
 "edad":45,
-"Tipo de sangre":"A-",
+"Sexo":"Femenino",
 "ciudad":"Bogota"
 },
   {
 "nombre":"juan",
 "apellido":"burgos",
 "edad":67,
-"Tipo de sangre":"A+",
+"Sexo":"Masculino",
 "ciudad":"Cali"
 },
   {
 "nombre":"Jesus",
 "apellido":"Hernandez",
 "edad":34,
-"Tipo de sangre":"o-",
+"Sexo":"Femenino",
 "ciudad":"Medellin"
 }
 ]
